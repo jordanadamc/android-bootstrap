@@ -35,6 +35,8 @@ import butterknife.Views;
  */
 public class MainActivity extends BootstrapFragmentActivity {
 
+    //This is a test- Adam
+
     @Inject protected BootstrapServiceProvider serviceProvider;
 
     private boolean userHasAuthenticated = false;
